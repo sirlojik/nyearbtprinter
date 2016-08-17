@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="com-nyear-btplugin" version="0.0.1" 
+xmlns="http://apache.org/cordova/ns/plugins/1.0" 
+xmlns:android="http://schemas.android.com/apk/res/android">
+  <name>WPXMain</name>
+  <js-module name="WPXMain" src="www/WPXMain.js">
+    <clobbers target="WPXMain" />
+  </js-module>
+</plugin>
